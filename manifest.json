@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-08-05",
+  "license": "CC BY 4.0",
+  "homepage": "https://tradeprotected.com",
+  "datasets": [
+    {
+      "id": "china-mofcom",
+      "title": "China MOFCOM — Unreliable Entity List, export-control list & anti-foreign-sanctions countermeasure list",
+      "count": 196,
+      "files": [
+        "china-mofcom.json",
+        "china-mofcom.csv"
+      ],
+      "source_url": "https://www.mofcom.gov.cn/"
+    },
+    {
+      "id": "eu-annex-iv",
+      "title": "EU Regulation 833/2014 Annex IV — military end-users",
+      "count": 921,
+      "files": [
+        "eu-annex-iv.json",
+        "eu-annex-iv.csv"
+      ],
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0833"
+    }
+  ]
+}
