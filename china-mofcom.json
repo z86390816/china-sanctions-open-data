@@ -7,12 +7,14 @@
   "note": "Compiled entry by entry from individual Chinese-language announcements; no machine-readable version is published officially. remarks names the issuing authority and the announcement number, in Chinese, so each row can be traced back to its original notice.",
   "license": "CC BY 4.0",
   "attribution": "Compiled by TradeProtected (https://tradeprotected.com)",
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-09-20",
+  "data_changed_at": "2026-09-12",
   "count": 196,
   "fields": [
     "name",
     "name_zh",
     "name_en",
+    "name_ja",
     "type",
     "programs",
     "programs_en",
@@ -32,7 +34,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "洛克希德·马丁航空公司",
@@ -44,7 +47,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "标枪合资公司",
@@ -56,7 +60,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "雷神导弹系统公司",
@@ -68,7 +73,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "通用动力军械与战术系统公司",
@@ -80,7 +86,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "通用动力信息技术公司",
@@ -92,7 +99,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "通用动力陆地系统公司",
@@ -104,7 +112,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "BAE系统公司",
@@ -116,7 +125,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "联合技术系统公司",
@@ -128,7 +138,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "L3哈里斯海事服务公司",
@@ -140,7 +151,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "萨罗尼克科技公司",
@@ -152,7 +164,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-09-25",
-      "remarks": "发布部门：商务部｜公告：2025年第9号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第9号公告",
+      "name_ja": ""
     },
     {
       "name": "爱尔康公司",
@@ -164,7 +177,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-09-25",
-      "remarks": "发布部门：商务部｜公告：2025年第9号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第9号公告",
+      "name_ja": ""
     },
     {
       "name": "国际海洋工程公司",
@@ -176,7 +190,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-09-25",
-      "remarks": "发布部门：商务部｜公告：2025年第9号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第9号公告",
+      "name_ja": ""
     },
     {
       "name": "反无人机技术公司（Axon旗下）",
@@ -188,7 +203,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights公司",
@@ -200,7 +216,8 @@
       "country": "加拿大",
       "country_en": "Canada",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights加拿大公司",
@@ -212,7 +229,8 @@
       "country": "加拿大",
       "country_en": "Canada",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights英国公司",
@@ -224,7 +242,8 @@
       "country": "英国",
       "country_en": "United Kingdom",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights德国公司",
@@ -236,7 +255,8 @@
       "country": "德国",
       "country_en": "Germany",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights日本公司",
@@ -248,7 +268,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": "TechInsights Japan株式会社"
     },
     {
       "name": "TechInsights韩国公司",
@@ -260,7 +281,8 @@
       "country": "韩国",
       "country_en": "South Korea",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights印度公司",
@@ -272,7 +294,8 @@
       "country": "印度",
       "country_en": "India",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights新加坡公司",
@@ -284,7 +307,8 @@
       "country": "新加坡",
       "country_en": "Singapore",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights澳大利亚公司",
@@ -296,7 +320,8 @@
       "country": "澳大利亚",
       "country_en": "Australia",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights巴西公司",
@@ -308,7 +333,8 @@
       "country": "巴西",
       "country_en": "Brazil",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights墨西哥公司",
@@ -320,7 +346,8 @@
       "country": "墨西哥",
       "country_en": "Mexico",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights荷兰公司",
@@ -332,7 +359,8 @@
       "country": "荷兰",
       "country_en": "Netherlands",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "TechInsights瑞典公司",
@@ -344,7 +372,8 @@
       "country": "瑞典",
       "country_en": "Sweden",
       "listed_on": "2025-10-09",
-      "remarks": "发布部门：商务部｜公告：2025年第10号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第10号公告",
+      "name_ja": ""
     },
     {
       "name": "应用DNA科学公司",
@@ -356,7 +385,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "阿斯特拉公司",
@@ -368,7 +398,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "布里克斯通金属公司",
@@ -380,7 +411,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "克里蒂卡安全公司",
@@ -392,7 +424,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "纳维达斯公司",
@@ -404,7 +437,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "帕拉丁防务公司",
@@ -416,7 +450,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-08-05",
-      "remarks": "发布部门：商务部｜公告：2026年第2号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第2号公告",
+      "name_ja": ""
     },
     {
       "name": "通用动力公司",
@@ -428,7 +463,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "L3哈里斯公司",
@@ -440,7 +476,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "英特磊公司",
@@ -452,7 +489,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "波音圣路易斯分公司",
@@ -464,7 +502,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "霍尼韦尔航空航天公司",
@@ -476,7 +515,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "诺斯罗普·格鲁曼公司",
@@ -488,7 +528,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "雷神技术公司",
@@ -500,7 +541,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "泰雷兹美国公司",
@@ -512,7 +554,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "赛峰美国公司",
@@ -524,7 +567,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "柯林斯航空航天公司",
@@ -536,7 +580,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "德事隆系统公司",
@@ -548,7 +593,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "亨廷顿·英格尔斯工业公司",
@@ -560,7 +606,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "奥什科什防务公司",
@@ -572,7 +619,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "莱昂纳多DRS公司",
@@ -584,7 +632,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "埃尔比特系统美国公司",
@@ -596,7 +645,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "拉斐尔先进防务系统美国公司",
@@ -608,7 +658,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "以色列航空工业美国公司",
@@ -620,7 +671,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "克拉夫特·海因茨防务公司",
@@ -632,7 +684,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "珀金埃尔默防务公司",
@@ -644,7 +697,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "安费诺防务公司",
@@ -656,7 +710,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "TE Connectivity防务公司",
@@ -668,7 +723,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "莫仕防务公司",
@@ -680,7 +736,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "史密斯星际防务公司",
@@ -692,7 +749,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "格伦航空防务公司",
@@ -704,7 +762,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "Souriau-Sunbank防务公司",
@@ -716,7 +775,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "ITT防务公司",
@@ -728,7 +788,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "Curtiss-Wright防务公司",
@@ -740,7 +801,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "Moog防务公司",
@@ -752,7 +814,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-01-02",
-      "remarks": "发布部门：商务部｜公告：2025年第1号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第1号公告",
+      "name_ja": ""
     },
     {
       "name": "莱多斯公司",
@@ -764,7 +827,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "吉布斯和考克斯公司",
@@ -776,7 +840,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "监控研究公司",
@@ -788,7 +853,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "战略与国际问题研究中心",
@@ -800,7 +866,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "大西洋理事会",
@@ -812,7 +879,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "传统基金会",
@@ -824,7 +892,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "哈德逊研究所",
@@ -836,7 +905,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "兰德公司",
@@ -848,7 +918,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "米切尔航空航天研究所",
@@ -860,7 +931,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "国防优先事项组织",
@@ -872,7 +944,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "安全政策中心",
@@ -884,7 +957,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "国家利益中心",
@@ -896,7 +970,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "美国企业研究所",
@@ -908,7 +983,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "卡托研究所",
@@ -920,7 +996,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "布鲁金斯学会",
@@ -932,7 +1009,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-03-04",
-      "remarks": "发布部门：商务部｜公告：2025年第13号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第13号公告",
+      "name_ja": ""
     },
     {
       "name": "美国光子公司",
@@ -944,7 +1022,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "光谱物理公司",
@@ -956,7 +1035,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "相干公司",
@@ -968,7 +1048,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "II-VI公司",
@@ -980,7 +1061,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "鲁门特姆公司",
@@ -992,7 +1074,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "菲尼萨公司",
@@ -1004,7 +1087,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "奥兰治光子学公司",
@@ -1016,7 +1100,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "索尔实验室公司",
@@ -1028,7 +1113,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "纽波特公司",
@@ -1040,7 +1126,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "MKS仪器公司",
@@ -1052,7 +1139,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "爱特蒙特光学公司",
@@ -1064,7 +1152,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "滨松光子美国公司",
@@ -1076,7 +1165,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-04-09",
-      "remarks": "发布部门：商务部｜公告：2025年第18号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第18号公告",
+      "name_ja": ""
     },
     {
       "name": "汉翔航空工业股份有限公司",
@@ -1088,7 +1178,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "中山科学研究院",
@@ -1100,7 +1191,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "国家中山科学研究院",
@@ -1112,7 +1204,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "台湾国际造船股份有限公司",
@@ -1124,7 +1217,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "中信造船股份有限公司",
@@ -1136,7 +1230,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "龙德造船工业股份有限公司",
@@ -1148,7 +1243,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "联合船舶设计发展中心",
@@ -1160,7 +1256,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "台湾机械股份有限公司",
@@ -1172,7 +1269,8 @@
       "country": "中国台湾",
       "country_en": "Taiwan, China",
       "listed_on": "2025-07-09",
-      "remarks": "发布部门：商务部｜公告：2025年第28号公告"
+      "remarks": "发布部门：商务部｜公告：2025年第28号公告",
+      "name_ja": ""
     },
     {
       "name": "三菱造船株式会社",
@@ -1184,7 +1282,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "三菱造船株式会社"
     },
     {
       "name": "三菱重工海事系统株式会社",
@@ -1196,7 +1295,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "三菱重工マリタイムシステムズ株式会社"
     },
     {
       "name": "川崎重工船舶海洋公司",
@@ -1208,7 +1308,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "川崎重工業株式会社 船舶海洋カンパニー"
     },
     {
       "name": "IHI原动机株式会社",
@@ -1220,7 +1321,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "株式会社IHI原動機"
     },
     {
       "name": "IHI动力系统株式会社",
@@ -1232,7 +1334,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "IHI運搬機械株式会社"
     },
     {
       "name": "日本制钢所株式会社",
@@ -1244,7 +1347,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "株式会社日本製鋼所"
     },
     {
       "name": "富士通防卫与国家安全株式会社",
@@ -1256,7 +1360,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "富士通ディフェンス&ナショナルセキュリティ株式会社"
     },
     {
       "name": "NEC网络传感器株式会社",
@@ -1268,7 +1373,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "NECネットワーク・センサ株式会社"
     },
     {
       "name": "日本电气航空宇宙系统株式会社",
@@ -1280,7 +1386,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "日本電気航空宇宙システム株式会社"
     },
     {
       "name": "日本海洋联合株式会社",
@@ -1292,7 +1399,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "ジャパン マリンユナイテッド株式会社"
     },
     {
       "name": "三井E&S造船株式会社",
@@ -1304,7 +1412,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "三井E&S造船株式会社"
     },
     {
       "name": "常石造船株式会社",
@@ -1316,7 +1425,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "常石造船株式会社"
     },
     {
       "name": "名村造船所株式会社",
@@ -1328,7 +1438,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "株式会社名村造船所"
     },
     {
       "name": "佐世保重工业株式会社",
@@ -1340,7 +1451,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "佐世保重工業株式会社"
     },
     {
       "name": "新来岛船坞株式会社",
@@ -1352,7 +1464,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "新来島どっく株式会社"
     },
     {
       "name": "旭洋造船株式会社",
@@ -1364,7 +1477,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "旭洋造船株式会社"
     },
     {
       "name": "本田重工业株式会社",
@@ -1376,7 +1490,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "本田重工業株式会社"
     },
     {
       "name": "四国造船株式会社",
@@ -1388,7 +1503,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "四国造船株式会社"
     },
     {
       "name": "函馆船坞株式会社",
@@ -1400,7 +1516,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "函館どつく株式会社"
     },
     {
       "name": "尾道造船株式会社",
@@ -1412,7 +1529,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-02-24",
-      "remarks": "发布部门：商务部｜公告：2026年第11号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第11号公告",
+      "name_ja": "尾道造船株式会社"
     },
     {
       "name": "赫斯塔尔公司",
@@ -1424,7 +1542,8 @@
       "country": "比利时",
       "country_en": "Belgium",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "约翰·科克里尔公司",
@@ -1436,7 +1555,8 @@
       "country": "比利时",
       "country_en": "Belgium",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "奈克斯特系统公司",
@@ -1448,7 +1568,8 @@
       "country": "法国",
       "country_en": "France",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "泰雷兹比利时公司",
@@ -1460,7 +1581,8 @@
       "country": "比利时",
       "country_en": "Belgium",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "萨博博福斯动力公司",
@@ -1472,7 +1594,8 @@
       "country": "瑞典",
       "country_en": "Sweden",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "莱茵金属防务电子公司",
@@ -1484,7 +1607,8 @@
       "country": "德国",
       "country_en": "Germany",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "迪尔防务公司",
@@ -1496,7 +1620,8 @@
       "country": "德国",
       "country_en": "Germany",
       "listed_on": "2026-04-24",
-      "remarks": "发布部门：商务部｜公告：2026年第20号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第20号公告",
+      "name_ja": ""
     },
     {
       "name": "艾维奥克斯公司",
@@ -1508,7 +1633,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "红猫控股公司",
@@ -1520,7 +1646,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "安杜里尔工业公司",
@@ -1532,7 +1659,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "盾牌人工智能公司",
@@ -1544,7 +1672,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "幽灵机器人公司",
@@ -1556,7 +1685,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "自主解决方案公司",
@@ -1568,7 +1698,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "天空dio公司",
@@ -1580,7 +1711,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "德拉根弗莱公司",
@@ -1592,7 +1724,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "战术机器人公司",
@@ -1604,7 +1737,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "格里芬航空航天公司",
@@ -1616,7 +1750,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2026-06-22",
-      "remarks": "发布部门：商务部｜公告：2026年第35号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第35号公告",
+      "name_ja": ""
     },
     {
       "name": "斯巴鲁株式会社",
@@ -1628,7 +1763,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "株式会社SUBARU"
     },
     {
       "name": "东芝能源系统株式会社",
@@ -1640,7 +1776,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "東芝エネルギーシステムズ株式会社"
     },
     {
       "name": "日立造船株式会社",
@@ -1652,7 +1789,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "日立造船株式会社"
     },
     {
       "name": "住友重机械工业株式会社",
@@ -1664,7 +1802,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "住友重機械工業株式会社"
     },
     {
       "name": "神户制钢所株式会社",
@@ -1676,7 +1815,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "株式会社神戸製鋼所"
     },
     {
       "name": "日本发条株式会社",
@@ -1688,7 +1828,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "日本発条株式会社"
     },
     {
       "name": "东京计器株式会社",
@@ -1700,7 +1841,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "東京計器株式会社"
     },
     {
       "name": "横河电机株式会社",
@@ -1712,7 +1854,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "横河電機株式会社"
     },
     {
       "name": "小松制作所株式会社",
@@ -1724,7 +1867,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "株式会社小松製作所"
     },
     {
       "name": "古河电气工业株式会社",
@@ -1736,7 +1880,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "古河電気工業株式会社"
     },
     {
       "name": "藤仓株式会社",
@@ -1748,7 +1893,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "株式会社フジクラ"
     },
     {
       "name": "昭和电工株式会社",
@@ -1760,7 +1906,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "昭和電工株式会社"
     },
     {
       "name": "日本特殊陶业株式会社",
@@ -1772,7 +1919,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "日本特殊陶業株式会社"
     },
     {
       "name": "京瓷株式会社",
@@ -1784,7 +1932,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "京セラ株式会社"
     },
     {
       "name": "TDK株式会社",
@@ -1796,7 +1945,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "TDK株式会社"
     },
     {
       "name": "村田制作所株式会社",
@@ -1808,7 +1958,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "株式会社村田製作所"
     },
     {
       "name": "日东电工株式会社",
@@ -1820,7 +1971,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "日東電工株式会社"
     },
     {
       "name": "信越化学工业株式会社",
@@ -1832,7 +1984,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "信越化学工業株式会社"
     },
     {
       "name": "JSR株式会社",
@@ -1844,7 +1997,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "JSR株式会社"
     },
     {
       "name": "东京应化工业株式会社",
@@ -1856,7 +2010,8 @@
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-06-29",
-      "remarks": "发布部门：商务部｜公告：2026年第40号公告"
+      "remarks": "发布部门：商务部｜公告：2026年第40号公告",
+      "name_ja": "東京応化工業株式会社"
     },
     {
       "name": "英斯图公司",
@@ -1868,7 +2023,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "哈德森技术公司",
@@ -1880,7 +2036,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "萨罗尼克科技公司",
@@ -1892,7 +2049,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "雷神加拿大公司",
@@ -1904,7 +2062,8 @@
       "country": "加拿大",
       "country_en": "Canada",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "雷神澳大利亚公司",
@@ -1916,7 +2075,8 @@
       "country": "澳大利亚",
       "country_en": "Australia",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "爱尔康公司",
@@ -1928,7 +2088,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "国际海洋工程公司",
@@ -1940,7 +2101,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2024-12-27",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第16号",
+      "name_ja": ""
     },
     {
       "name": "诺斯罗普·格鲁曼系统公司",
@@ -1952,7 +2114,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "波音密苏里州圣路易斯市分公司",
@@ -1964,7 +2127,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "安杜里尔工业公司",
@@ -1976,7 +2140,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "立方体公司",
@@ -1988,7 +2153,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "卡曼航天公司",
@@ -2000,7 +2166,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "维尔泰克公司",
@@ -2012,7 +2179,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "红六解决方案公司",
@@ -2024,7 +2192,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "特种作战装备公司",
@@ -2036,7 +2205,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "铁穹防务公司",
@@ -2048,7 +2218,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "顶峰防务公司",
@@ -2060,7 +2231,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "战术先进系统公司",
@@ -2072,7 +2244,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "精确打击公司",
@@ -2084,7 +2257,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "海上前沿技术公司",
@@ -2096,7 +2270,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "空天创新公司",
@@ -2108,7 +2283,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "网络防御系统公司",
@@ -2120,7 +2296,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "情报融合公司",
@@ -2132,7 +2309,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "自主导航公司",
@@ -2144,7 +2322,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "电磁频谱公司",
@@ -2156,7 +2335,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "联合战术通信公司",
@@ -2168,7 +2348,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "全球后勤支持公司",
@@ -2180,139 +2361,151 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "凯西·沃登",
       "name_zh": "凯西·沃登",
       "name_en": "Kathy Warden",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "马克·谢伊",
       "name_zh": "马克·谢伊",
       "name_en": "Mark Sears",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "大卫·伯恩斯坦",
       "name_zh": "大卫·伯恩斯坦",
       "name_en": "David Bernstein",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "罗伯特·斯塔克",
       "name_zh": "罗伯特·斯塔克",
       "name_en": "Robert Stark",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "詹姆斯·威尔逊",
       "name_zh": "詹姆斯·威尔逊",
       "name_en": "James Wilson",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "迈克尔·陈",
       "name_zh": "迈克尔·陈",
       "name_en": "Michael Chen",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "莎拉·约翰逊",
       "name_zh": "莎拉·约翰逊",
       "name_en": "Sarah Johnson",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "托马斯·布朗",
       "name_zh": "托马斯·布朗",
       "name_en": "Thomas Brown",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "威廉·戴维斯",
       "name_zh": "威廉·戴维斯",
       "name_en": "William Davis",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "理查德·泰勒",
       "name_zh": "理查德·泰勒",
       "name_en": "Richard Taylor",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-12-26",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第19号",
+      "name_ja": ""
     },
     {
       "name": "古屋圭司",
       "name_zh": "古屋圭司",
       "name_en": "Furuya Keiji",
-      "type": "person",
+      "type": "individual",
       "programs": "反外国制裁反制清单",
       "programs_en": "Anti-foreign-sanctions countermeasure list",
       "country": "日本",
       "country_en": "Japan",
       "listed_on": "2026-03-30",
-      "remarks": "发布部门：外交部/财政部｜公告：外交部令第20号"
+      "remarks": "发布部门：外交部/财政部｜公告：外交部令第20号",
+      "name_ja": "古屋圭司"
     },
     {
       "name": "韩华海运有限责任公司",
@@ -2324,7 +2517,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-14",
-      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告"
+      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告",
+      "name_ja": ""
     },
     {
       "name": "韩华费城造船厂公司",
@@ -2336,7 +2530,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-14",
-      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告"
+      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告",
+      "name_ja": ""
     },
     {
       "name": "韩华海洋美洲公司",
@@ -2348,7 +2543,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-14",
-      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告"
+      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告",
+      "name_ja": ""
     },
     {
       "name": "韩华海洋技术美国公司",
@@ -2360,7 +2556,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-14",
-      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告"
+      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告",
+      "name_ja": ""
     },
     {
       "name": "韩华海洋服务美国公司",
@@ -2372,7 +2569,8 @@
       "country": "美国",
       "country_en": "United States",
       "listed_on": "2025-10-14",
-      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告"
+      "remarks": "发布部门：商务部｜公告：韩华海洋在美子公司反制公告",
+      "name_ja": ""
     }
   ]
 }
