@@ -1,0 +1,88 @@
+name: 数据真的变了就发一个 Release
+
+# 为什么要有这个工作流：Zenodo 只在发 Release 的那一刻存档。
+# 数据推上来了却没发 Release，按 DOI 下载到的就还是上一版——
+# 而 DOI 正是给学术引用用的那条路，于是最在意版本准确性的那批人反而拿到最旧的数据。
+# 2026-09 真的发生过：仓库里是 9 月 20 日的数据，DOI 指向 8 月 5 日那份，差了六周，
+# 而没有任何东西提醒过任何人。手动记着发，迟早还会忘第二次。
+#
+# 为什么放在数据仓库而不是主仓库：发 Release 只需要对「自己这个仓库」的写权限，
+# 而 GITHUB_TOKEN 天生就有。放在主仓库的话要跨仓库写，得另配一个 PAT——
+# 多一个要保管、会过期、忘了续期就静默失效的东西，换不来任何好处。
+
+on:
+  push:
+    branches: [main]
+    # 只有 manifest 变了才值得判一次：数据文件变而 manifest 没变是不可能的
+    #（导出脚本一起写），而别的文件（README、LICENSE）改动不该触发版本
+    paths:
+      - 'manifest.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write        # 建 tag 与 Release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # 要和父提交比 manifest，深度 1 拿不到父提交
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 判断数据是否真的变了
+        id: check
+        run: node scripts/release-if-data-changed.mjs
+
+      # tag 用数据日期，同一天可能推两次（比如修了导出脚本的 bug 重跑），
+      # 所以撞名时加序号，而不是覆盖已有的 Release——
+      # 覆盖会让已经引用了那个版本的人手上的 DOI 指向另一份数据
+      - name: 算一个没被占用的 tag
+        if: steps.check.outputs.release == 'yes'
+        id: tag
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DAY: ${{ steps.check.outputs.day }}
+        run: |
+          base="v${DAY}"
+          tag="$base"
+          n=2
+          while gh release view "$tag" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; do
+            tag="${base}-${n}"
+            n=$((n + 1))
+            if [ "$n" -gt 20 ]; then
+              echo "::error::同一个数据日期已经有 20 个 Release，多半是哪里在空转，停下来看看"
+              exit 1
+            fi
+          done
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          echo "将发布 $tag"
+
+      - name: 发 Release
+        if: steps.check.outputs.release == 'yes'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.tag.outputs.tag }}
+          TOTAL: ${{ steps.check.outputs.total }}
+          DAY: ${{ steps.check.outputs.day }}
+        run: |
+          title="Data snapshot $(echo "$DAY" | sed -E 's/(....)(..)(..)/\1-\2-\3/') (${TOTAL} entries)"
+          gh release create "$TAG" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "$title" \
+            --notes-file RELEASE_NOTES.md
+          echo "::notice::已发布 $TAG。Zenodo 会在一两分钟内自动存档并铸一个新版本 DOI。"
+
+      - name: 数据没变就说清楚为什么没发
+        if: steps.check.outputs.release != 'yes'
+        run: |
+          echo "::notice::数据没有变化，未发 Release。"
+          echo "::notice::判据是 manifest 里各数据集的 count 与 data_changed_at；"
+          echo "::notice::generated_at 变了不算——那只说明导出脚本跑过一次，数据可能一模一样。"
+          echo "::notice::每周定时重跑都发一版的话，Zenodo 上会堆一串毫无差别的 DOI，"
+          echo "::notice::而「版本多到无法区分」和「没有版本」一样没用。"
