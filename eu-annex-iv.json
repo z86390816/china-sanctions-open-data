@@ -7,7 +7,7 @@
   "note": "Extracted from the consolidated regulation text. Structured fields (aliases, address, registration number, local name, website) are parsed out of the free-text remarks column.",
   "license": "CC BY 4.0",
   "attribution": "Compiled by TradeProtected (https://tradeprotected.com)",
-  "generated_at": "2026-09-20",
+  "generated_at": "2026-09-21",
   "data_changed_at": "2026-08-16",
   "count": 921,
   "fields": [
